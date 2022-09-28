@@ -9,6 +9,7 @@ public class User_Input_integer {
 		System.out.println("enter the value of x :");
 		int x= s.nextInt();
 		System.out.println("the entered value is " + x);
+		s.close();
 	}
 
 }
