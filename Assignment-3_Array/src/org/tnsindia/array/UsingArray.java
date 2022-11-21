@@ -8,6 +8,7 @@ public class UsingArray {
 	{
 		//Arrays.sort defines Array is a class and sort is a method which sort the values
 		Arrays.sort(a);
+		
 		for(int i=0;i<a.length;i++)
 		{
 			System.out.print(a[i]+" ");
